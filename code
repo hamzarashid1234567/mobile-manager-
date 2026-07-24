@@ -1,0 +1,32 @@
+
+## Technology Stack
+
+- **Android**: Kotlin, Android Studio, Jetpack libraries
+- **iOS**: Swift, SwiftUI, Xcode
+- **Backend**: Node.js, Express.js, MongoDB
+- **Web Dashboard**: React, Redux, Chart.js, Tailwind CSS
+- **Authentication**: JWT tokens
+- **Database**: MongoDB
+- **Hosting**: Docker, AWS/Heroku/DigitalOcean
+
+## Installation
+
+### For Users
+1. Download from Google Play Store (Android) or App Store (iOS)
+2. Create account and sign in
+3. Access web dashboard at https://mobile-manager.app
+
+### For Developers
+See [INSTALLATION.md](docs/INSTALLATION.md)
+
+## API Documentation
+
+See [API.md](docs/API.md) for complete API reference.
+
+## License
+
+MIT
+
+## Contact
+
+For support: support@mobile-manager.app
