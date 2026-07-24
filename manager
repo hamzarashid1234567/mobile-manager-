@@ -1,0 +1,34 @@
+# Mobile Manager & Troubleshooter
+
+A comprehensive cross-platform mobile device management and troubleshooting application. Users can download the native app, and view detailed device analytics, diagnostics, and solutions on a web dashboard.
+
+## Features
+
+### Mobile App (Android & iOS)
+- **Performance Monitoring**: Real-time RAM, CPU, battery, and storage tracking
+- **App Management**: Analyze app permissions, storage usage, and battery consumption
+- **System Diagnostics**: Check device health, temperature, and connectivity
+- **Security Scan**: Detect potential threats and malware
+- **Battery Optimization**: Identify power-consuming apps and processes
+- **Storage Cleanup**: Find and remove unnecessary files
+- **Network Analysis**: WiFi and cellular connection diagnostics
+- **Device Info**: Complete hardware and software details
+- **Auto-Sync**: Send data to cloud for web dashboard viewing
+
+### Web Dashboard
+- View all connected devices
+- Real-time device statistics and health status
+- Historical performance data and charts
+- Troubleshooting recommendations
+- Device settings and remote management
+- Export reports and analytics
+- User account management
+
+### Backend API
+- RESTful API for mobile apps
+- User authentication and authorization
+- Device data storage and processing
+- Advanced analytics
+- Notification system
+
+## Project Structure
